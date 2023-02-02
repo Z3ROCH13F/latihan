@@ -1,0 +1,2 @@
+# latihan
+Latihan asas python
