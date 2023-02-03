@@ -13,7 +13,7 @@ INI UNTUK python 3.9
 """
 
 # abs()
-# Fungsi abs() adalah mengembalikan nilai mutlak sesuatu nombor.
+# Fungsi abs() adalah mengembalikan nilai mutlak sesuatu nombor
 x1 = 3.21
 x2 = abs(1 + 1.1 + 1.11)
 x3 = abs(x1 - x2)
