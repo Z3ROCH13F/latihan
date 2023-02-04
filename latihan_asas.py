@@ -28,3 +28,4 @@ print(x3)
 # Kekurangan maklumat fungsi any()
 
 # ascii()
+x1 = 
