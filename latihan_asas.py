@@ -38,4 +38,4 @@ print(x2)
 
 # bool()
 x1 = bool(True or False)
-print
+print(x1)
