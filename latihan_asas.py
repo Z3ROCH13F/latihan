@@ -29,3 +29,4 @@ print(x3)
 
 # ascii()
 x1 = "hello"
+x2 = ascii()
