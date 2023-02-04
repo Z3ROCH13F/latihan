@@ -39,6 +39,7 @@ print(x2)
 # bool()
 x = type(bool())
 print(x)
+# Output <class 'bool'>
 x1 = bool(True | False)
 print(x1)
 # Output True
