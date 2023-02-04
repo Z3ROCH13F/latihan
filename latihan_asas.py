@@ -33,4 +33,4 @@ x2 = ascii(x1)
 print(x2)
 # Output 'hello'
 
-# bin
+# bin()
