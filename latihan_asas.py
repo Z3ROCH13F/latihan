@@ -45,3 +45,4 @@ print(x2)
 # Output True
 x3 = bool(False | False)
 print(x3)
+# Output False
