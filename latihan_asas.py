@@ -1,7 +1,7 @@
 """
 A:          #   B:
             #
-abs()       #
+abs()       #   bin()
 all()       #
 any()       #
 ascii()     #
