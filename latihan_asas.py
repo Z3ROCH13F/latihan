@@ -34,4 +34,5 @@ print(x2)
 # Output 'hello'
 
 # bin()
-# Kekurangan maklumat fungsi 
+# Kekurangan maklumat fungsi bin()
+
