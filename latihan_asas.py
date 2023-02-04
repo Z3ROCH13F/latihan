@@ -36,3 +36,4 @@ print(x2)
 # bin()
 # Kekurangan maklumat fungsi bin()
 
+# bool()
