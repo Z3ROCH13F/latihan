@@ -2,7 +2,7 @@
 A:          #   B:
             #
 abs()       #   bin()
-all()       #
+all()       #   bool()
 any()       #
 ascii()     #
 
