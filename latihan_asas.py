@@ -42,3 +42,6 @@ print(x1)
 # Output True
 x2 = bool(True or False)
 print(x2)
+# Output True
+x3 = bool(False | False)
+print(x3)
