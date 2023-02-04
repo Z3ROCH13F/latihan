@@ -34,3 +34,4 @@ print(x2)
 # Output 'hello'
 
 # bin()
+# Kekurangan
