@@ -37,6 +37,8 @@ print(x2)
 # Kekurangan maklumat fungsi bin()
 
 # bool()
+x = type(bool())
+print(x)
 x1 = bool(True | False)
 print(x1)
 # Output True
