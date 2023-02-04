@@ -37,3 +37,4 @@ print(x2)
 # Kekurangan maklumat fungsi bin()
 
 # bool()
+x1 = bool(True or False)
