@@ -25,4 +25,6 @@ print(x3)
 # Kekurangan maklumat fungsi all()
 
 # any()
-# Kekurangan maklumat
+# Kekurangan maklumat fungsi any()
+
+# ascii()
