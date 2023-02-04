@@ -25,4 +25,4 @@ print(x3)
 # Kekurangan maklumat fungsi all()
 
 # any()
-# Keku
+# Kekurangan maklumat
