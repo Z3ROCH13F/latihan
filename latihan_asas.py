@@ -26,10 +26,13 @@ x4 = False  # Ini juga bool
 x1 = 3.21
 x2 = abs(1 + 1.1 + 1.11)
 x3 = abs(x1 - x2)
+x4 = abs(2000 + 24)
 print(x2)
 # Output 3.21
 print(x3)
 # Output 0.0
+print(x4)
+# Output 2024
 
 # all()
 # Kekurangan maklumat fungsi all()
