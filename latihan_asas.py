@@ -13,7 +13,7 @@ INI UNTUK python 3.9
 
 # Jenis kelas
 x1 = "halo" # Ini string
-x1 = ""     # Ini juga string
+x1 = 'dunia'# Ini juga string
 x2 = 1      # Ini int
 x2 = 10     # Ini juga int
 x3 = 1.1    # Ini float
@@ -21,7 +21,7 @@ x3 = 10.1   # Ini juga float
 x4 = True   # Ini bool
 x4 = False  # Ini juga bool
 
-# abs()
+print("abs()")
 # Fungsi abs() adalah mengembalikan nilai mutlak sesuatu nombor
 x1 = 3.21
 x2 = abs(1 + 1.1 + 1.11)
@@ -34,13 +34,20 @@ print(x3)
 print(x4)
 # Output 2024
 
-# all()
-# Kekurangan maklumat fungsi all()
+print("all()")
+# Fungsi all(x1) adalah, jika x1 adalah string kemudian all(x1) akan memberikan bool True
+x1 = "hello dunia"
+print(all(x1))
+# Output True
 
-# any()
-# Kekurangan maklumat fungsi any()
+print("any()")
+# Fungsi any(x1) adalah, jika x1 adalah string kemudian any(x1) akan memberikan bool True dan jika x1 = "" kemudian any(x1) akan mengembalikan bool False
+print(any(x1))
+# Output True
+x1 = ""
+print(any(x1))
 
-# ascii()
+print("ascii()")
 x1 = "hello"
 x2 = ascii(x1)
 print(x2)
@@ -49,7 +56,7 @@ print(x2)
 # bin()
 # Kekurangan maklumat fungsi bin()
 
-# bool()
+print("bool()")
 x = type(bool())
 print(x)
 # Output <class 'bool'>
