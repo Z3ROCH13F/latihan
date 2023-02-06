@@ -36,13 +36,13 @@ print(x4)
 # Output 2024
 
 print("ini all()")
-# Fungsi all(x1) adalah, jika x1 adalah string kemudian all(x1) akan memberikan bool True
+# Fungsi all(x1) adalah, jika x1 adalah str kemudian all(x1) akan memberikan bool True
 x1 = "hello dunia"
 print(all(x1))
 # Output True
 
 print("ini any()")
-# Fungsi any(x1) adalah, jika x1 adalah string kemudian any(x1) akan memberikan bool True dan jika x1 = "" kemudian any(x1) akan mengembalikan bool False
+# Fungsi any(x1) adalah, jika x1 adalah str kemudian any(x1) akan memberikan bool True dan jika x1 = "" kemudian any(x1) akan mengembalikan bool False
 print(any(x1))
 # Output True
 x1 = ""
