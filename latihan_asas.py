@@ -12,14 +12,15 @@ INI UNTUK python 3.9
 """
 
 # Jenis kelas
-x1 = "halo" # Ini string
-x1 = 'dunia'# Ini juga string
-x2 = 1      # Ini int
-x2 = 10     # Ini juga int
-x3 = 1.1    # Ini float
-x3 = 10.1   # Ini juga float
-x4 = True   # Ini bool
-x4 = False  # Ini juga bool
+x1 = "halo"           # Ini str
+x1 = 'dunia'          # Ini juga str
+x1 = """Helo dunia""" # Dan ini juga str
+x2 = 1                # Ini int
+x2 = 10               # Ini juga int
+x3 = 1.1              # Ini float
+x3 = 10.1             # Ini juga float
+x4 = True             # Ini bool
+x4 = False            # Ini juga bool
 
 print("abs()")
 # Fungsi abs() adalah mengembalikan nilai mutlak sesuatu nombor
