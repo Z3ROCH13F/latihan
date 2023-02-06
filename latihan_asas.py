@@ -34,20 +34,21 @@ print(x3)
 print(x4)
 # Output 2024
 
-print("all()")
+print("ini all()")
 # Fungsi all(x1) adalah, jika x1 adalah string kemudian all(x1) akan memberikan bool True
 x1 = "hello dunia"
 print(all(x1))
 # Output True
 
-print("any()")
+print("ini any()")
 # Fungsi any(x1) adalah, jika x1 adalah string kemudian any(x1) akan memberikan bool True dan jika x1 = "" kemudian any(x1) akan mengembalikan bool False
 print(any(x1))
 # Output True
 x1 = ""
 print(any(x1))
+# Output False
 
-print("ascii()")
+print("ini ascii()")
 x1 = "hello"
 x2 = ascii(x1)
 print(x2)
@@ -56,7 +57,7 @@ print(x2)
 # bin()
 # Kekurangan maklumat fungsi bin()
 
-print("bool()")
+print("ini bool()")
 x = type(bool())
 print(x)
 # Output <class 'bool'>
@@ -69,3 +70,4 @@ print(x2)
 x3 = bool(False | False)
 print(x3)
 # Output False
+
