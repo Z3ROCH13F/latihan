@@ -17,7 +17,8 @@ abs()       #   bin()
 all()       #   bool()
 any()       #   breakpoint()
 ascii()     #   bytearray()
-
+            #
+            #
 
 INI UNTUK python 3.9
 
@@ -61,13 +62,10 @@ print(x2)
 # Kekurangan maklumat fungsi bin()
 
 print("ini bool()")
-x = type(bool())
-print(x)
-# Output <class 'bool'>
 x1 = bool(True or False)
 print(x1)
 # Output True
-x2 = bool(True or False)
+x2 = bool(1 or False)
 print(x2)
 # Output True
 x3 = bool(0 or 0)
