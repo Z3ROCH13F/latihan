@@ -16,7 +16,7 @@ A:          #   B:
 abs()       #   bin()
 all()       #   bool()
 any()       #   breakpoint()
-ascii()     #
+ascii()     #   bytearray()
 
 
 INI UNTUK python 3.9
@@ -24,7 +24,7 @@ INI UNTUK python 3.9
 """
 
 
-print("abs()")
+print("ini abs()")
 # Fungsi abs() adalah mengembalikan nilai mutlak sesuatu nombor
 x1 = 3.21
 x2 = abs(1 + 1.1 + 1.11)
@@ -64,14 +64,21 @@ print("ini bool()")
 x = type(bool())
 print(x)
 # Output <class 'bool'>
-x1 = bool(True | False)
+x1 = bool(True or False)
 print(x1)
 # Output True
 x2 = bool(True or False)
 print(x2)
 # Output True
-x3 = bool(False | False)
+x3 = bool(0 or 0)
 print(x3)
 # Output False
+x4 = bool(1 or 0)
+print(x4)
+# Output True
 
 print("ini breakpoint()")
+# Kekurangan maklumat fungsi breakpoint()
+
+print("ini bytearray()")
+# Kekurangan maklumat fungsi bytearray()
